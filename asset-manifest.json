@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73f9653c.chunk.css",
+    "main.js": "/static/js/main.36c6eb09.chunk.js",
+    "main.js.map": "/static/js/main.36c6eb09.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.b7e9e326.chunk.js": "/static/js/2.b7e9e326.chunk.js",
+    "static/js/2.b7e9e326.chunk.js.map": "/static/js/2.b7e9e326.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1c8944c35293d931c86276ecf9cd81af.js": "/precache-manifest.1c8944c35293d931c86276ecf9cd81af.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.73f9653c.chunk.css.map": "/static/css/main.73f9653c.chunk.css.map",
+    "static/media/Daftar-Perusahaan-BUMN.jpg": "/static/media/Daftar-Perusahaan-BUMN.1cb2cefd.jpg",
+    "static/media/Etana_logo.png": "/static/media/Etana_logo.477ad830.png"
+  }
+}
